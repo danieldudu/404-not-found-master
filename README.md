@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://vercel.com/danieldudu/404-not-found-master">
+    <a href="https://404-not-found-master-gamma.vercel.app/">
       Demo
     </a>
     <span> | </span>
